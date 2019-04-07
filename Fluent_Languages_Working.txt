@@ -1,0 +1,25 @@
+0. The languages and frameworks/libraries I have worked with
+Language - C#: 8/10
+Language - HTML: 7/10
+Language - CSS: 7/10
+Language - Javascript: 8/10
+Language - VB: 7/10
+Language - Oracle: 7/10
+Language - SQLServer: 7/10
+Framework - KnockoutJs: 8/10
+● Theoretical Computer Science and common algorithms: 5/10
+
+With the following requirements list,
+because i haven't worked with any languages on the list,
+then point rate are 0/10 for all
+● Node.js 
+● ECMAScript/CommonJS
+● Babel
+● React
+● Redux
+● MySQL
+● PostgreSQL
+● MongoDB
+● REST
+● RPC
+● Software Design Patterns
